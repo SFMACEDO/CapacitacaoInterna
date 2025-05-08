@@ -1,0 +1,5 @@
+Capacitação interna: Git na prática
+
+Desafio Git para testar habilidades
+
+nova descrição para o projeto
