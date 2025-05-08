@@ -3,3 +3,4 @@ Capacitação interna: Git na prática
 Desafio Git para testar habilidades
 
 nova descrição para o projeto
+Crie um arquivo de texto e adicione uma descrição do projeto (pode ser algo simples como "Desafio Git para testar habilidades").
